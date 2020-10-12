@@ -1,0 +1,13 @@
+E:\izpit2\izpit2\bin\Debug\netcoreapp3.1\izpit2.exe
+E:\izpit2\izpit2\bin\Debug\netcoreapp3.1\izpit2.deps.json
+E:\izpit2\izpit2\bin\Debug\netcoreapp3.1\izpit2.runtimeconfig.json
+E:\izpit2\izpit2\bin\Debug\netcoreapp3.1\izpit2.runtimeconfig.dev.json
+E:\izpit2\izpit2\bin\Debug\netcoreapp3.1\izpit2.dll
+E:\izpit2\izpit2\bin\Debug\netcoreapp3.1\izpit2.pdb
+E:\izpit2\izpit2\obj\Debug\netcoreapp3.1\izpit2.csprojAssemblyReference.cache
+E:\izpit2\izpit2\obj\Debug\netcoreapp3.1\izpit2.AssemblyInfoInputs.cache
+E:\izpit2\izpit2\obj\Debug\netcoreapp3.1\izpit2.AssemblyInfo.cs
+E:\izpit2\izpit2\obj\Debug\netcoreapp3.1\izpit2.csproj.CoreCompileInputs.cache
+E:\izpit2\izpit2\obj\Debug\netcoreapp3.1\izpit2.dll
+E:\izpit2\izpit2\obj\Debug\netcoreapp3.1\izpit2.pdb
+E:\izpit2\izpit2\obj\Debug\netcoreapp3.1\izpit2.genruntimeconfig.cache

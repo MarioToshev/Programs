@@ -1,0 +1,13 @@
+C:\Users\mario\source\repos\reccrution\reccrution\obj\Debug\netcoreapp3.1\reccrution.csprojAssemblyReference.cache
+C:\Users\mario\source\repos\reccrution\reccrution\obj\Debug\netcoreapp3.1\reccrution.AssemblyInfoInputs.cache
+C:\Users\mario\source\repos\reccrution\reccrution\obj\Debug\netcoreapp3.1\reccrution.AssemblyInfo.cs
+C:\Users\mario\source\repos\reccrution\reccrution\obj\Debug\netcoreapp3.1\reccrution.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\reccrution\reccrution\bin\Debug\netcoreapp3.1\reccrution.exe
+C:\Users\mario\source\repos\reccrution\reccrution\bin\Debug\netcoreapp3.1\reccrution.deps.json
+C:\Users\mario\source\repos\reccrution\reccrution\bin\Debug\netcoreapp3.1\reccrution.runtimeconfig.json
+C:\Users\mario\source\repos\reccrution\reccrution\bin\Debug\netcoreapp3.1\reccrution.runtimeconfig.dev.json
+C:\Users\mario\source\repos\reccrution\reccrution\bin\Debug\netcoreapp3.1\reccrution.dll
+C:\Users\mario\source\repos\reccrution\reccrution\bin\Debug\netcoreapp3.1\reccrution.pdb
+C:\Users\mario\source\repos\reccrution\reccrution\obj\Debug\netcoreapp3.1\reccrution.dll
+C:\Users\mario\source\repos\reccrution\reccrution\obj\Debug\netcoreapp3.1\reccrution.pdb
+C:\Users\mario\source\repos\reccrution\reccrution\obj\Debug\netcoreapp3.1\reccrution.genruntimeconfig.cache

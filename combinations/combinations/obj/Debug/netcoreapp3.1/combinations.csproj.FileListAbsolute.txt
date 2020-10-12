@@ -1,0 +1,13 @@
+E:\combinations\combinations\bin\Debug\netcoreapp3.1\combinations.exe
+E:\combinations\combinations\bin\Debug\netcoreapp3.1\combinations.deps.json
+E:\combinations\combinations\bin\Debug\netcoreapp3.1\combinations.runtimeconfig.json
+E:\combinations\combinations\bin\Debug\netcoreapp3.1\combinations.runtimeconfig.dev.json
+E:\combinations\combinations\bin\Debug\netcoreapp3.1\combinations.dll
+E:\combinations\combinations\bin\Debug\netcoreapp3.1\combinations.pdb
+E:\combinations\combinations\obj\Debug\netcoreapp3.1\combinations.csprojAssemblyReference.cache
+E:\combinations\combinations\obj\Debug\netcoreapp3.1\combinations.AssemblyInfoInputs.cache
+E:\combinations\combinations\obj\Debug\netcoreapp3.1\combinations.AssemblyInfo.cs
+E:\combinations\combinations\obj\Debug\netcoreapp3.1\combinations.csproj.CoreCompileInputs.cache
+E:\combinations\combinations\obj\Debug\netcoreapp3.1\combinations.dll
+E:\combinations\combinations\obj\Debug\netcoreapp3.1\combinations.pdb
+E:\combinations\combinations\obj\Debug\netcoreapp3.1\combinations.genruntimeconfig.cache

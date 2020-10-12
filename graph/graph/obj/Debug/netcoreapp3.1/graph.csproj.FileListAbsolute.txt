@@ -1,0 +1,13 @@
+C:\Users\mario\source\repos\graph\graph\obj\Debug\netcoreapp3.1\graph.csprojAssemblyReference.cache
+C:\Users\mario\source\repos\graph\graph\obj\Debug\netcoreapp3.1\graph.AssemblyInfoInputs.cache
+C:\Users\mario\source\repos\graph\graph\obj\Debug\netcoreapp3.1\graph.AssemblyInfo.cs
+C:\Users\mario\source\repos\graph\graph\obj\Debug\netcoreapp3.1\graph.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\graph\graph\bin\Debug\netcoreapp3.1\graph.exe
+C:\Users\mario\source\repos\graph\graph\bin\Debug\netcoreapp3.1\graph.deps.json
+C:\Users\mario\source\repos\graph\graph\bin\Debug\netcoreapp3.1\graph.runtimeconfig.json
+C:\Users\mario\source\repos\graph\graph\bin\Debug\netcoreapp3.1\graph.runtimeconfig.dev.json
+C:\Users\mario\source\repos\graph\graph\bin\Debug\netcoreapp3.1\graph.dll
+C:\Users\mario\source\repos\graph\graph\bin\Debug\netcoreapp3.1\graph.pdb
+C:\Users\mario\source\repos\graph\graph\obj\Debug\netcoreapp3.1\graph.dll
+C:\Users\mario\source\repos\graph\graph\obj\Debug\netcoreapp3.1\graph.pdb
+C:\Users\mario\source\repos\graph\graph\obj\Debug\netcoreapp3.1\graph.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\Labirint\Labirint\bin\Debug\netcoreapp3.1\Labirint.exe
+E:\Labirint\Labirint\bin\Debug\netcoreapp3.1\Labirint.deps.json
+E:\Labirint\Labirint\bin\Debug\netcoreapp3.1\Labirint.runtimeconfig.json
+E:\Labirint\Labirint\bin\Debug\netcoreapp3.1\Labirint.runtimeconfig.dev.json
+E:\Labirint\Labirint\bin\Debug\netcoreapp3.1\Labirint.dll
+E:\Labirint\Labirint\bin\Debug\netcoreapp3.1\Labirint.pdb
+E:\Labirint\Labirint\obj\Debug\netcoreapp3.1\Labirint.csprojAssemblyReference.cache
+E:\Labirint\Labirint\obj\Debug\netcoreapp3.1\Labirint.AssemblyInfoInputs.cache
+E:\Labirint\Labirint\obj\Debug\netcoreapp3.1\Labirint.AssemblyInfo.cs
+E:\Labirint\Labirint\obj\Debug\netcoreapp3.1\Labirint.csproj.CoreCompileInputs.cache
+E:\Labirint\Labirint\obj\Debug\netcoreapp3.1\Labirint.dll
+E:\Labirint\Labirint\obj\Debug\netcoreapp3.1\Labirint.pdb
+E:\Labirint\Labirint\obj\Debug\netcoreapp3.1\Labirint.genruntimeconfig.cache
