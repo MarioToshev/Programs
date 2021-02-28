@@ -1,1 +1,1 @@
-Console.Readlinee("Something...")
+Console.Writeline("Something...")
